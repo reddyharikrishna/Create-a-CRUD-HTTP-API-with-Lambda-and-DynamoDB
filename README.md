@@ -6,7 +6,7 @@ A serverless CRUD API built with AWS Lambda and DynamoDB that enables managing i
 A serverless API implementation that performs Create, Read, Update, and Delete (CRUD) operations on a DynamoDB table using AWS Lambda and API Gateway.
 
 ## Architecture
-![Architecture Diagram] ![CRUD HTTP API ](https://github.com/user-attachments/assets/ee0613d5-7c2f-4deb-93d0-33a8360593e4)
+![CRUD HTTP API ](https://github.com/user-attachments/assets/ee0613d5-7c2f-4deb-93d0-33a8360593e4)
 
 
 ## Features
